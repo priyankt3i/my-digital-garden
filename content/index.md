@@ -39,3 +39,8 @@ title: My Second Brain
  * :+1: **Proficient** in C#, C++, Python, Java, SQL, C
  * :+1: **Excellent** in HTML5, CSS, JavaScript, TypeScript, Shell, Bash
  * :ok_hand: **Not too bad** :smirk: in NodeJs, React, TailwindCSS, Vite, K8s
+
+## Ongoing Experiments
+
+- [[Zyvarian]]
+- [[]]
