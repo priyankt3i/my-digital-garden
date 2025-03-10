@@ -1,20 +1,41 @@
 ---
-title: My Cryptic Grove 🌱
+title: My Second Brain 
 ---
-![[mrxcrypt-in-garden-1.jpg]]
 
-Hello mate! This is me, MrXcrypt, and welcome to my digital garden.
+## Glad to see you here!  
+<p style="margin-right: 10px;" >
+  I am a fullstack Engineer with over 14 years of industry experience where I have been involved in various stages of SDLC. From Planning to Design, Development, Testing, and Delivery. I can align, lead, and grow world-class product teams from 10 to 50 people.
+</p>
+<p style="margin-right: 10px;" >
+  More recently, I was involved in building a GenAI application for business intelligence and data analysis using Generative AI. Building both front-end, middle-ware, and backend for a complete solution. Training, Finetuning, and Prompt Engineering.
+</p>
+<p style="margin-right: 10px;" >
+  Extensive experience in API development, SQL/NoSQL Database Design, DevOps, Building pipelines, UI/Functional/API automation, and CI/CD to deliver high-quality software products and services to clients in the financial sector.
+</p>
 
-This space is a curated archive of my study notes, research, and explorations in Cybersecurity. I also include my medium blogs here which are free in medium. You can view my medium blogs over [here](https://medium.com/@misterxcrypt).
+## Skills  
+<div>  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/c-original.svg" alt="C" height="50" />
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/cplusplus-original.svg" alt="C++" height="50" /> 
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/java-original-wordmark.svg" alt="Java" height="50" />
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" />
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/typescript-original.svg" alt="TypeScript" height="50" />
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="50" />
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="50" />           
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mongodb-original-wordmark.svg" alt="MongoDB" height="50" /> 
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/express-original-wordmark.svg" alt="Express.js" height="50" /> 
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="50" />  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nodejs-original-wordmark.svg" alt="Node.js" height="50" />    
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" alt="Linux" height="50" />  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" />
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/docker-original-wordmark.svg" alt="Docker" height="50" />
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/firebase.png" alt="Firebase" height="50" />
+</div>  
 
-It’s a growing repository where I document what I learn, break things apart, and put them back together—sometimes better, sometimes just to understand them deeper.
+## Executive Summary
 
-My interests revolve around:
-
-- Cyber Threat Intelligence – Tracking threat actors, scams, and financial fraud.
-- OSINT & Social Engineering – Gathering intelligence from the wild.
-- Cybercrime Research – Understanding fraud at scale.
-
-This digital garden is my evolving map of knowledge—scattered, structured, and always growing. Feel free to explore! 🚀
-
-An Easter egg 🥚. I hid my poetry self somewhere in this website 👀. 
+ * :+1: **13+ years** of Industry Experience
+ * :+1: **Hand-on Experience** in Azure, AWS, Docker, Vercel, Ansible
+ * :+1: **Proficient** in C#, C++, Python, Java, SQL, C
+ * :+1: **Excellent** in HTML5, CSS, JavaScript, TypeScript, Shell, Bash
+ * :ok_hand: **Not too bad** :smirk: in NodeJs, React, TailwindCSS, Vite, K8s
