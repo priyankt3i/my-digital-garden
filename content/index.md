@@ -40,7 +40,13 @@ title: My Second Brain
  * :+1: **Excellent** in HTML5, CSS, JavaScript, TypeScript, Shell, Bash
  * :ok_hand: **Not too bad** :smirk: in NodeJs, React, TailwindCSS, Vite, K8s
 
-## Ongoing Experiments
+## What This WebPage contains?
+
+### Vague Ideas
+- [[WhatIfs]]
+- [[FutureProjects]]
+
+### Ongoing Experiments
 
 - [[Zyvarian]]
-- [[]]
+- [[Agentic RAG Project]]
