@@ -6,3 +6,5 @@ npm i
 npx quartz create
 npx quartz build — serve
 npx quartz build --serve
+
+deploy on vercel
