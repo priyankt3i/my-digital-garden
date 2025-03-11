@@ -92,6 +92,7 @@
     "toml": "^3.0.0",
     "unified": "^11.0.5",
     "unist-util-visit": "^5.0.0",
+    "vercel": "^41.3.2",
     "vfile": "^6.0.3",
     "workerpool": "^9.2.0",
     "ws": "^8.18.0",
