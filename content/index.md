@@ -50,3 +50,4 @@ title: My Second Brain
 
 - [[Zyvarian]]
 - [[Agentic RAG Project]]
+- [[CryptoAICoin]]
