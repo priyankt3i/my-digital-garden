@@ -44,7 +44,7 @@ jobs:
       - name: Build
         run: |
           echo "Starting build..."
-          npm run quartz build -- --base /my-digital-garden
+          npm run quartz build
           echo "Build completed"
           ls -la public/
       - name: Create .nojekyll file
