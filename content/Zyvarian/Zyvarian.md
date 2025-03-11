@@ -50,7 +50,7 @@ Yes please give me the details along with grammar
 **ChatGPT**: 
 
 **Zyvarian: A New Language** 
-Zyvarian is a constructed language (conlang) designed to be logical, expressive, and easy to learn. It has a structured grammar, a unique vocabulary, and a simple writing system.
+Zyvarian is a constructed language (conlang) designed to be logical, expressive, and easy to learn. It has a structured grammar, a unique vocabulary, and a simple [[Writing System]].
 
 
 ---
@@ -195,7 +195,7 @@ This will take some time to refine. Do you have any preferences for how the scri
 - **Runic (sharp angles, ancient look)**
  
 - **Inspired by an existing script (e.g., Devanagari, Arabic, Hangul, etc.)**
-Also, do you want the dictionary to include **example sentences**  or just word translations?
+Also, do you want the [[Dictionary (WIP)]] to include **example sentences**  or just word translations?
 
 **You**: 
 

@@ -1,11 +1,11 @@
-Sure! I'll prepare a detailed **Zyvarian Grammar & Syntax Guide**. This will include comprehensive explanations for **grammar**, **syntax**, and **pronunciation**, with **transliterations** for ease of learning, especially for people familiar with English.
+Sure! I'll prepare a detailed **Zyvarian Grammar & Syntax Guide**. This will include comprehensive explanations for **grammar**, **syntax**, and **pronunciation**, with **transliterations** for ease of learning, especially for people familiar with English. More information on Grammar : [[Zyvarian Grammar & Syntax Guide]]
 
 ---
 
 ### **Zyvarian Grammar & Syntax Guide**
 
 #### **1. The Alphabet**
-Zyvarian uses 16 letters (sounds), each with a unique symbol. Here's the complete alphabet:
+[[Zyvarian]] uses 16 letters (sounds), each with a unique symbol. Here's the complete alphabet:
 
 | Sound | Symbol | Transliterated Sound |
 |--------|--------|----------------------|

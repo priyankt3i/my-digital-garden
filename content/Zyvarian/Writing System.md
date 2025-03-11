@@ -20,7 +20,7 @@ All letters are **unique, visually distinct, and match the overall aesthetic** o
 
 ---
 
-## **2️⃣ Zyvarian Dictionary**  
+## **2️⃣ [[Zyvarian]] Dictionary**  
 This is a **work-in-progress**, but here are some confirmed words:  
 
 | Zyvarian | English Meaning |
@@ -66,7 +66,7 @@ These numerals are **easily distinguishable, match the aesthetic, and can be wri
 ## **4️⃣ Grammar & Syntax**  
 
 ### **Word Order (SOV)**
-- Zyvarian follows **Subject-Object-Verb** (SOV) structure.  
+- [[Zyvarian]] follows **Subject-Object-Verb** (SOV) structure.  
   - Example: **"I apple eat."** (instead of "I eat an apple.")  
   - Zyvarian: **"Ima tima koro."** (I water drink.)  
 
