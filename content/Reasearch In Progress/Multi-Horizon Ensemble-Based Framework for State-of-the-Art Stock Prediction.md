@@ -1,5 +1,3 @@
-# A Multi-Horizon, Ensemble-Based Framework for State-of-the-Art Stock Prediction
-
 ## The Modern Paradigm of Quantitative Forecasting: Horizons, Architectures, and Inherent Risks
 
 The pursuit of accurate stock market prediction is one of the most challenging and dynamic fields in computational finance. The complexity, non-stationarity, and inherent noise of financial time series render simplistic, one-size-fits-all approaches ineffective. A sophisticated and robust strategy must acknowledge that the nature of the prediction problem changes fundamentally with the time horizon. This report delineates a state-of-the-art framework for stock prediction, grounded in a horizon-driven methodology that selects and combines specialized models tailored to the distinct market phenomena that dominate different time scales.
