@@ -1,5 +1,3 @@
-# Indus-GPT: A Hybrid Neural Architecture for the Probabilistic Decipherment of the Indus Valley Script
-
 ### Introduction: The Last Great Undeciphered Script of the Ancient World
 
 The Indus Valley Civilization (IVC), one of the world's oldest urban societies, flourished from approximately 2600 to 1900 BCE across a vast expanse of modern-day Pakistan and northwestern India.¹ Its cities, distinguished by sophisticated urban planning and advanced water management systems, stand as a testament to a highly organized culture.¹ Yet, over a century after the civilization's rediscovery by Sir John Marshall in 1924, its people remain silent.² The single greatest barrier to understanding their societal structure, economy, religion, and daily life is the undeciphered nature of their writing system, the Indus script.² This script, found on thousands of artifacts, represents the earliest known form of writing from the Indian subcontinent, but its meaning is a profound and enduring mystery.⁴
